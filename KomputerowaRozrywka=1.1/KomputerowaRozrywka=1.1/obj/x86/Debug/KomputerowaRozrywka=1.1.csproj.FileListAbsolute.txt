@@ -1,6 +1,0 @@
-c:\users\grzegorz\documents\visual studio 2010\Projects\KomputerowaRozrywka=1.1\KomputerowaRozrywka=1.1\bin\Debug\KomputerowaRozrywka=1.1.exe
-c:\users\grzegorz\documents\visual studio 2010\Projects\KomputerowaRozrywka=1.1\KomputerowaRozrywka=1.1\bin\Debug\KomputerowaRozrywka=1.1.pdb
-c:\users\grzegorz\documents\visual studio 2010\Projects\KomputerowaRozrywka=1.1\KomputerowaRozrywka=1.1\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\grzegorz\documents\visual studio 2010\Projects\KomputerowaRozrywka=1.1\KomputerowaRozrywka=1.1\obj\x86\Debug\KomputerowaRozrywka=1.1.exe
-c:\users\grzegorz\documents\visual studio 2010\Projects\KomputerowaRozrywka=1.1\KomputerowaRozrywka=1.1\obj\x86\Debug\KomputerowaRozrywka=1.1.pdb
-C:\Users\Grzegorz\Documents\Visual Studio 2010\Projects\KomputerowaRozrywka=1.1\KomputerowaRozrywka=1.1\bin\Debug\KomputerowaRozrywka=1.1.exe.config
